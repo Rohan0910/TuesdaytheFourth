@@ -3,5 +3,4 @@ Hello Mr.manral. Keep learning!
 Believe | Become 
 <br>
 This is a new feature <Button of main>
-This is a new feature 
-<br>
+
