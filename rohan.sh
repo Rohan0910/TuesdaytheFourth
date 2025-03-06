@@ -5,6 +5,3 @@ Believe | Become
 This is a new feature <Button of main>
 This is a new feature 
 <br>
-
-
-Wednesday evening!
